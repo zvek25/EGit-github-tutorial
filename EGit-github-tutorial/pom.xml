@@ -5,4 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>EGit-github-tutorial</name>
   <description>EGit-github-tutorial</description>
+  <url>http://maven.apache.org</url>
 </project>
